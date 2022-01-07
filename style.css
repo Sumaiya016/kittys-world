@@ -1,0 +1,274 @@
+body {
+  font-family: "Poppins", sans-serif;
+  margin: 0%;
+  text-align: justify;
+}
+.parent-div {
+  display: flex;
+  justify-content: space-around;
+  width: 80%;
+  margin: 45;
+  padding: 5%;
+}
+.new {
+  font-size: 95%;
+  width: 80%;
+}
+.focused-mission {
+  font-family: "Pushster", cursive;
+  font-size: 56px;
+  font-weight: 900;
+  width: 45%;
+  border-left: 6px solid;
+  border-image: linear-gradient(
+    rgb(208, 38, 38),
+    rgb(48, 70, 233),
+    rgb(160, 46, 46)
+  );
+  border-image-slice: 1;
+}
+.mission-2022 {
+  color: rgb(221, 92, 69);
+}
+.person-image img {
+  width: 185%;
+}
+.explore-button {
+  width: 20%;
+  padding: 10px 40px;
+  background-image: linear-gradient(rgb(48, 70, 233), rgb(247, 136, 96));
+  text-decoration: none;
+  font-weight: 650;
+  padding: 10px 25px;
+  border-radius: 5%;
+  height: 10%;
+  color: white;
+}
+.explore-button:hover {
+  color: red;
+}
+.goal-2022 {
+  text-align: center;
+  font-size: 50px;
+  font-weight: 900;
+  font-family: "Pushster", cursive;
+}
+.color-2022 {
+  color: rgb(30, 138, 210);
+}
+.color-mission {
+  color: rgb(8, 9, 43);
+}
+.three-illustrator {
+  display: flex;
+  width: 85%;
+  margin-left: 8%;
+}
+.illustrator1 {
+  background-image: linear-gradient(rgb(255, 217, 217), rgb(218, 255, 218));
+  padding: 2%;
+  margin-right: 2%;
+  border-radius: 7%;
+}
+.illustrator1 img {
+  width: 30%;
+  justify-content: space-between;
+  padding: 5%;
+}
+.illustrator2 {
+  background-image: linear-gradient(rgb(255, 212, 237), rgb(218, 255, 233));
+  padding: 2%;
+  margin-right: 2%;
+  border-radius: 7%;
+}
+.illustrator2 img {
+  width: 30%;
+  justify-content: space-between;
+  padding: 5%;
+}
+.illustrator3 {
+  background-image: linear-gradient(rgb(218, 255, 221), rgb(244, 253, 219));
+  padding: 2%;
+  margin-right: 2%;
+  border-radius: 7%;
+}
+.illustrator3 img {
+  width: 30%;
+  justify-content: space-between;
+  padding: 5%;
+}
+.text-mission {
+  width: 62%;
+}
+.text-size {
+  font-family: "Pushster", cursive;
+}
+.programmer-image {
+  margin-top: 4%;
+}
+.programmer-image img {
+  margin-left: 23%;
+  width: 70%;
+  border-radius: 5%;
+  height: 85%;
+}
+.programmer {
+  display: flex;
+}
+.programmer-content {
+  width: 70%;
+  margin-top: 4%;
+  margin-left: 2%;
+  height: 40%;
+  background-image: url(shape-6.png);
+  background-position-y: 96%;
+}
+.develop {
+  font-family: "Pushster", cursive;
+  font-size: 30px;
+  width: 20%;
+  padding: 3%;
+  height: 0;
+}
+.develop-font {
+  width: 36%;
+  margin-left: 4%;
+  background-image: linear-gradient(rgb(180, 183, 221), rgb(255, 224, 222));
+  border-image: linear-gradient(blue, red);
+  border-image-slice: 1;
+  border-left: 6px solid;
+  padding: 2%;
+  box-shadow: 10px 10px 20px gray;
+  border-radius: 4%;
+  margin-top: 7%;
+}
+.dumentation-button {
+  font-weight: 650;
+  padding: 10px 10px;
+  border-radius: 5%;
+  background-image: linear-gradient(rgb(157, 162, 235), rgb(238, 119, 111));
+  margin-left: 4%;
+}
+.dumentation-button:hover {
+  color: blue;
+  cursor: pointer;
+}
+.my-bg {
+  font-family: "Pushster", cursive;
+  font-size: 200%;
+  width: 120%;
+}
+.new {
+  display: flex;
+  justify-content: space-around;
+}
+.top-banner img {
+  width: 80%;
+}
+.Global-Community {
+  margin-left: auto%;
+  width: 120%;
+  margin-top: 5%;
+}
+.read-button {
+  font-weight: 750;
+  padding: 10px 10px;
+  border-radius: 5%;
+  background-image: linear-gradient(rgb(157, 162, 235), rgb(238, 119, 111));
+  cursor: pointer;
+}
+.read-button:hover {
+  color: cornsilk;
+}
+.ss {
+  width: 84%;
+  box-shadow: 10px 10px 20px gray;
+  padding: 20px;
+  background-image: linear-gradient(rgb(180, 183, 221), rgb(255, 224, 222));
+  border-image: linear-gradient(blue, red);
+  border-image-slice: 1;
+  border-left: 6px solid;
+  border-radius: 4%;
+  margin-left: 0%;
+}
+.shape-image img {
+  width: 17%;
+  margin-left: 83%;
+}
+.project-image img {
+  width: 105%;
+  margin-auto: %;
+  margin-left: 60%;
+}
+.Restaurant-tittle {
+  text-align: center;
+  font-size: 40px;
+}
+.resturant-image img {
+  margin-left: 20%;
+  padding: 2px;
+  padding: 4%;
+  background-image: url(shape-1.png), url(shape-8.png), url(shape-6.png);
+  background-repeat: no-repeat;
+  background-size: 97px;
+  margin-left: 10%;
+  background-position: left bottom, left top, top right;
+}
+.app-container {
+  width: 70%;
+  height: 20%;
+}
+.last-file {
+  display: flex;
+  width: 90%;
+  height: 20%;
+}
+.Restaurant-info {
+  width: 60%;
+  font-size: 35px;
+  font-family: "Pushster", cursive;
+}
+.last-span {
+  color: rgb(255, 0, 0);
+}
+.last-setion {
+  margin-left: 20%;
+  margin-bottom: %;
+}
+.ending {
+  text-align: center;
+  background-color: rgb(2, 3, 10);
+  color: beige;
+  font-family: "Pushster", cursive;
+}
+.footer-font-color {
+  color: red;
+}
+.enter-button {
+  text-align: ;
+}
+.order {
+  margin-bottom: 10%;
+  margin-left: 10%;
+
+  background-image: linear-gradient(rgb(193, 249, 255), rgb(192, 243, 255));
+  background-image: linear-gradient(rgb(158, 248, 140), rgb(252, 137, 162));
+  width: 20%;
+  padding: 2%;
+  text-align: left top;
+  border-radius: 3%;
+}
+.online-button {
+  width: 20%;
+  padding: 10px 40px;
+  background-image: linear-gradient(rgb(243, 125, 117), rgb(208, 128, 100));
+  text-decoration: none;
+  font-weight: 650;
+  padding: 10px 25px;
+  border-radius: 5%;
+  height: 10%;
+  color: white;
+}
+.online-button:hover {
+  color: blueviolet;
+}
