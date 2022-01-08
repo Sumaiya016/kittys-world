@@ -16,7 +16,7 @@ body {
 }
 .focused-mission {
   font-family: "Pushster", cursive;
-  font-size: 56px;
+  font-size: 70px;
   font-weight: 900;
   width: 45%;
   border-left: 6px solid;
@@ -31,7 +31,9 @@ body {
   color: rgb(221, 92, 69);
 }
 .person-image img {
-  width: 185%;
+  width: 125%;
+  height: 80%;
+  margin-left: 20%;
 }
 .explore-button {
   width: 20%;
